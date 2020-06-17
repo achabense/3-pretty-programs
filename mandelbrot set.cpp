@@ -20,7 +20,7 @@
 #define fwidth ((double)width)
 #define fheight ((double)height)
 #define hdivw (fheight/fwidth)
-#define xdivy hdivw
+#define ydivx hdivw
 #if ((width*3==height*4)||(width==height))
 
 
